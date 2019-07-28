@@ -50,4 +50,4 @@ def encode_md5(s):
 
 
 encode_md5("abc")
-decode_base_all("49206C6F766520796F752E")
+decode_base_all("JeZkLH0YaA==")
